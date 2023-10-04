@@ -74,8 +74,8 @@
   .navbar a:hover {
     color: var(--cg-blue);
     text-decoration: underline;
-    border: 1px solid var(--cg-blue);
-    border: 1px solid var(--cg-blue); 
+    border: 1px solid rgb(140, 161, 218);
+    border: 1px solid rgb(140, 161, 218); 
     padding: 5px 10px; 
     border-radius: 5px; 
   }
